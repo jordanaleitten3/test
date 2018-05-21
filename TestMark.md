@@ -1,4 +1,4 @@
-##Testing
+## Testing
 ______
 This is a test
 
@@ -10,10 +10,10 @@ Of GitHub Desktop
 
 ### Heading 3
 
-####Heading 4
+#### Heading 4
 
 ##### Heading 5
 
-######Heading 6
+###### Heading 6
 
 
