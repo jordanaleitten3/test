@@ -4,7 +4,7 @@ This is a test
 
 Of GitHub Desktop
 
-#Heading 1
+# Heading 1
 
 ## Heading 2
 
